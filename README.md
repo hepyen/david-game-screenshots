@@ -10,3 +10,5 @@
 | ![Игровая долина](03-gameplay.png) | ![Загон](04-sheep-pen.png) |
 
 **Новая версия персонажей:** [Давид, модель Blender](05-new-david-biblical-3d.png) · [Давид и овцы непосредственно в Godot](06-new-david-and-sheep-in-godot.png).
+
+Latest revision: [David without skirt and fitted belt](12-david-tailored-no-skirt.png) | [Actual Godot screenshot](13-david-tailored-in-godot.png)
